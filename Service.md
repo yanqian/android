@@ -1,8 +1,8 @@
 # Service 
 
-Designed for time consuming backgroud job like downloading or database querying or notification water or something.
+Designed for time consuming backgroud job like downloading or database querying or notification watcher or something.
 
-There are 2 type of service.
+There are 2 types of service.
 
 - IntentService
 - Service
@@ -22,7 +22,7 @@ startService(i)
 - Run app
 
 Note:
-The IntentService implement the thread(runnable.run) method. So it's multiple threaded and you do not have to implement the thread manually.
+The IntentService implement the thread(runnable.run) method. So it's multiple threaded and you do not have to implement the thread manually and it's working pretty cool.
 
 
 
