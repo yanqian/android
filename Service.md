@@ -75,7 +75,7 @@ boolean isBind = false;
 2. new a ServiceConnection
 
 ```
-private ServiceConnection myConnection = new SericeConnection(){
+private ServiceConnection myConnection = new ServiceConnection(){
 	// the parameter IBinder will be got by android system from Service class
 	// and it is the bridge between Service and Client
 	public void onServiceConnected(ComponentName name, IBinder service){
