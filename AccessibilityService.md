@@ -80,5 +80,7 @@ private void simulationClick(String[] keywords) {
 }
 ```
 
+> [你真的理解AccessibilityService吗](http://www.jianshu.com/p/4cd8c109cdfb)
+
 
 
