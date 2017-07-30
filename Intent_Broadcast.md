@@ -44,4 +44,5 @@ sentBroadcast(i)
 
 - run as "do not launch activity"
 
+> https://developer.android.com/guide/components/broadcasts.html
 
